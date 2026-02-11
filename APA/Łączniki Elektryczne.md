@@ -1,0 +1,4 @@
+Włączyć / wyłączyć / załączyć / rozłączyć
+
+
+

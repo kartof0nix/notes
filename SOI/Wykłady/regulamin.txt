@@ -1,0 +1,96 @@
+
+               
+Regulamin przedmiotu Systemy Operacyjne (SOI)
+
+
+Przedmiot sk³ada siê z wyk³adu i laboratorium, ocenianych niezale¿nie.  Czê¶æ
+teoretyczna jest oceniana w skali 0-60 punktów na podstawie kolokwium (20
+punktów) i egzaminu (40 punktów). Laboratorium jest oceniane w skali od 0 do
+40 punktów. 
+
+
+Laboratorium 
+------------
+
+- ka¿de z æwiczeñ laboratoryjnych jest oceniane niezale¿nie, w ustalonej dla
+  danego æwiczenia skali punktowej, 4 punkty dla æwiczeñ dwugodzinnych i 8
+  punktów dla æwiczeñ czterogodzinnych.
+
+- ocenê æwiczenia wystawia prowadz±cy dany termin laboratorium i jest ona
+  ostateczna, 
+
+- suma mo¿liwych do zdobycia punktów z laboratorium wynosi 40. Wymagane jest
+  uzyskanie co najmniej 20 punktów,
+
+- niezaliczenie dwóch æwiczeñ jest równoznaczne z niezaliczeniem przedmiotu,
+
+- w przypadku æwiczeñ czterogodzinnych, czyli odbywaj±cych siê w dwóch
+  kolejnych terminach laboratorium, na pierwszy termin nale¿y dostarczyc w
+  postaci spisanej pe³n± koncepcjê/projekt rozwi±zania. Oddanie koncepcji jest
+  obowi±zkowe w pierwszym z dwóch terminów laboratorium. Koncepcja jest omawiana
+  z prowadz±cym, prowadz±cy ocenia koncepcjê w skali 0-2 punkty. W drugim
+  terminie æwiczenia czterogodzinnego dokonywany jest odbiór zadania, przy czym
+  sposób wykonania weryfikowany jest z tre¶ci± przedstawionego uprzednio
+  projektu. Realizacja zadania oceniana jest w skali 0-6 punktow. Sumarycznie za
+  zadanie czterogodzinne mo¿na wiêc otrzymaæ maksymalnie 8 punktów.
+
+- zadania musz± byæ oddawane w ustalonym dla nich terminie. Zadanie mo¿e byæ
+  oddane do tygodnia (do kolejnego terminu) pó¼niej, ale wi±¿e siê to z
+  automatycznym pomniejszeniem liczby mo¿liwych do zdobycia punktów za æwiczenie
+  o 1. Spó¼nienie o wiêcej ni¿ tydzieñ powoduje uzyskanie 0 punktów za æwiczenie,
+  
+- studenci zobowi±zani s± do wysy³ania poprzez e-mail swoich wszystkich
+  rozwi±zañ na adres prowadz±cego dane zajêcia laboratoryjne,
+
+- jako termin oddania æwiczenia rozumie siê: albo datê demonstracji æwiczenia
+  w trakcie zajêæ laboratoryjnych prowadz±cemu, albo datê otrzymania od
+  studenta przez serwer pocztowy obs³uguj±cy skrzynkê pocztow± prowadz±cego
+  zajêcia e-maila z rozwi±zaniem - w zale¿no¶ci od tego, które zdarzenie
+  wyst±pi jako pierwsze, 
+  
+- w przypadku wysy³ania rozwi±zania przez e-mail obowi±zuje termin do pó³nocy
+  dnia, w którym odbywa³y siê zajêcia laboratoryjne. 
+  
+- wys³anie rozwi±zania przez e-mail nie zwalnia studenta z obowi±zku
+  demonstracji rozwi±zania prowadz±cemu w trakcie kolejnych zajêæ
+  laboratoryjnych. Dopiero po takiej demonstracji, po uwzglêdnieniu daty
+  odebrania e-maila z rozwi±zaniem, prowadz±cy ocenia punktowo æwiczenie,
+
+- w przypadku jednokrotnego wykrycia faktu niesamodzielnej pracy studenta nad
+  rozwi±zaniem æwiczenia, traci on mo¿liwo¶æ uzyskania z przedmiotu oceny
+  wy¿szej ni¿ 3.0,
+
+- w uzasadnionych przypadkach prowadz±cy zajêcia mo¿e z³agodziæ wobec studenta
+  obostrzenia wynikaj±ce z pozosta³ych punktów regulaminu laboratorium.
+
+- tre¶ci zadañ laboratoryjnych umieszczane s± na serwerze
+  http://studia.elka.pw.edu.pl/ na stronie przedmiotu SOI
+
+- przewidziany jest jeden termin dodatkowy umo¿liwiaj±cy odrobienie jednego
+  zaleg³ego æwiczenia osobom, które by³y nieobecne w którym¶ ze standardowych
+  terminów laboratorium. Nie ma mo¿liwo¶ci poprawiania oddanego wcze¶niej
+  æwiczenia. Nie ma te¿ mo¿liwo¶ci przyst±pienia w terminie dodatkowym do
+  æwiczenia, z którego uprzednio z wej¶ciówki otrzymano 0 punktów.
+
+
+Wyk³ad
+------
+
+- ocena z wyk³adu jest wystawiana na podstawie pisemnego testu wiedzy w trakcie
+  semestru i egzaminu w sesji. Student ma prawo do przyst±pienia do 2 terminów
+  egzaminu. Wymagane jest uzyskanie co najmniej 30 punktów z kolokwium i
+  egzaminu ³±cznie.
+
+- punkty uzyskane z czê¶ci teoretycznej (wyk³ad) i z czê¶ci laboratoryjnej s±
+  sumowane. Przedmiot zalicza suma 51 punktów.
+
+- skala ocen z przedmiotu jest nastêpuj±ca:
+
+      51-60      3
+      61-70      3.5
+      71-80      4
+      81-90      4.5
+      91-100     5
+
+- w indywidualnych przypadkach wyk³adowca ma prawo podwy¿szyæ ocenê.
+
