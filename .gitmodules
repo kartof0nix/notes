@@ -1,0 +1,6 @@
+[submodule "Wyklady-Archiwum"]
+	path = Wyklady-Archiwum
+	url = git@github.com:kartof0nix/Wyklady-Archiwum.git
+[submodule "Obsidian-Organisation"]
+	path = Obsidian-Organisation
+	url = github.com:kartof0nix/Obsidian-Organisation.git
